@@ -6,7 +6,7 @@
 
 ## Description
 
-_{Uses Pseudo-classes to make changes to a UL with 10 items. }_
+_{Uses Pseudo-classes to make changes to a UL with 10 items. Pseudo-classes used include first and last child, only child and empty.}_
 
 ## Setup/Installation Requirements
 
