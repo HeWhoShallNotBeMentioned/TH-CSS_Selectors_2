@@ -1,12 +1,12 @@
 # _{TH_CSS_Selectors_3}_
 
-#### _{Examples of CSS Selectors}, {11/13/2016}_
+#### _{Examples of CSS Selectors}, {11/14/2016}_
 
 #### By _**{Chris Underwood}**_
 
 ## Description
 
-_{Uses Pseudo-classes to make changes to a UL with 10 items. Pseudo-classes used include first and last child, only child and empty.}_
+_{Uses Pseudo-classes to make changes to a UL with 10 items. Pseudo-classes used include first and last child, only child and empty. Update includes nth type CSS Selectors,}_
 
 ## Setup/Installation Requirements
 
